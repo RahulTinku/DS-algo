@@ -24,7 +24,7 @@ Output: [0,1]
 
 Solution
 /\*\*
-
+```
 - @param {number[]} nums
 - @param {number} target
 - @return {number[]}
@@ -48,7 +48,7 @@ Solution
   }else{
   arr = []
   }
-      }
-
+  }
       return arr
   };
+  ```
