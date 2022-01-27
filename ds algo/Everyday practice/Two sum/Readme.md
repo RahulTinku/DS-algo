@@ -24,31 +24,33 @@ Output: [0,1]
 
 Solution
 /\*\*
+
 ```
 - @param {number[]} nums
 - @param {number} target
 - @return {number[]}
   \*/
   var twoSum = function(nums, target) {
-    let arr =[]
-    let sum = 0
-    let found =false;
-    for(let i =0; i< nums.length; i++){
-      sum = nums[i];
-      arr.push(i)
-      for(let j = i+1; j< nums.length; j++){
-        if(nums[j] === (target-sum)){
-          arr.push(j)
-          found = true
-          break;
-        }
+  let arr =[]
+  let sum = 0
+  let found =false;
+  for(let i =0; i< nums.length; i++){
+  sum = nums[i];
+  arr.push(i)
+  for(let j = i+1; j< nums.length; j++){
+  if(nums[j] === (target-sum)){
+  arr.push(j)
+  found = true
+  break;
+  }
+  }
+  if(found){
+  break;
+  }else{
+  arr = []
+  }
       }
-      if(found){
-      break;
-      }else{
-        arr = []
-      }
-     }
-     return arr
+
+      return arr
   };
-  ```
+```
