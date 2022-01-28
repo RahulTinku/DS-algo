@@ -2,7 +2,7 @@ Roman numerals are represented by seven different symbols: I, V, X, L, C, D and 
 
 Symbol Value
 
-|I | 1 |
+|#I | #1 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |V | 5|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
