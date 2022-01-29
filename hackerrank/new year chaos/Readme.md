@@ -39,7 +39,7 @@ Sample Input
 STDIN Function
 
 ---
-
+```
 2 t = 2
 5 n = 5
 2 1 5 3 4 q = [2, 1, 5, 3, 4]
@@ -49,7 +49,7 @@ Sample Output
 
 3
 Too chaotic
-
+```
 ### solution
 
 ```
