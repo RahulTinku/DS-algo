@@ -14,7 +14,7 @@ Complete the function minimumBribes in the editor below.
 
 minimumBribes has the following parameter(s):
 
-int q[n]: the positions of the people after all bribes
+`int q[n]: the positions of the people after all bribes`
 Returns
 
 No value is returned. Print the minimum number of bribes necessary or Too chaotic if someone has bribed more than people.
