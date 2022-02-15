@@ -18,7 +18,7 @@ minimumBribes has the following parameter(s):
 Returns
 
 No value is returned. Print the minimum number of bribes necessary or Too chaotic if someone has bribed more than people.
-Input Format
+Input Format 
 
 The first line contains an integer , the number of test cases.
 
