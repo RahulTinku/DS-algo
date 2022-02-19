@@ -1,10 +1,10 @@
 \*\* Question
 
-[img](https://github.com/RahulTinku/DS-algo/blob/main/ds%20algo/Everyday%20practice/reverse%20a%20linked%20list/img/ques.png)
+![question explalin](https://github.com/RahulTinku/DS-algo/blob/main/ds%20algo/Everyday%20practice/reverse%20a%20linked%20list/img/ques.png?raw=true)
 
 Solution
-[img](https://github.com/RahulTinku/DS-algo/blob/main/ds%20algo/Everyday%20practice/reverse%20a%20linked%20list/img/1.png)
+![solution](https://github.com/RahulTinku/DS-algo/blob/main/ds%20algo/Everyday%20practice/reverse%20a%20linked%20list/img/1.png?raw=true)
 
-[img](https://github.com/RahulTinku/DS-algo/blob/main/ds%20algo/Everyday%20practice/reverse%20a%20linked%20list/img/2.png)
+![explain](https://github.com/RahulTinku/DS-algo/blob/main/ds%20algo/Everyday%20practice/reverse%20a%20linked%20list/img/2.png?raw=true)
 
 animation/solution from letcode solutions
