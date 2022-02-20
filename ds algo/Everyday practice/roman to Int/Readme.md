@@ -33,7 +33,7 @@ Output: 3
 Explanation: III = 3.
 ```
 
-Example 2:
+Example 2: 
 
 ```
 Input: s = "LVIII"
