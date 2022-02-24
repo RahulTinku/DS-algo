@@ -1,4 +1,4 @@
-![img]()
+![img](https://github.com/RahulTinku/DS-algo/blob/main/ds%20algo/Everyday%20practice/pascal%20triangle/img/img.gif)
 
 ```
 Input: numRows = 5
