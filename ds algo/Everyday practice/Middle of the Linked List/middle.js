@@ -24,3 +24,18 @@ let middleNode = function (head) {
   }
   return head;
 };
+
+// let slow = head;
+// let fast = head;
+// while (fast !== null && fast.next !== null) {
+//     fast = fast.next;
+//     slow = slow.next;
+//     if (fast === null) {
+//         break;
+//     } else {
+//         fast = fast.next;
+//     }
+//     // console.log(slow)
+//     // console.log(fast)
+// }
+// return slow;
