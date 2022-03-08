@@ -1,6 +1,6 @@
 Given the head of a linked list and an integer val, remove all the nodes of the linked list that has Node.val == val, and return the new head.
 
-![img]()
+![img](https://github.com/RahulTinku/DS-algo/blob/main/ds%20algo/Everyday%20practice/Remove%20Linked%20List%20Elements/img/temp.jpg)
 
 ```
 Input: head = [1,2,6,3,4,5,6], val = 6
