@@ -69,5 +69,5 @@ Sample Output 2
 No
 Explanation 2
 
-Harold's magazine is missing the word .
+Harold's magazine is missing the word.
 ```
