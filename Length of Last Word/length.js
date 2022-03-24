@@ -10,5 +10,5 @@ var lengthOfLastWord = function (s) {
   // const n = s.trim().split(' ')
   // return n[n.length -1].length
   // const n = s.split(' ').filter(item => item !== '');
-  // return n[n.length-1].length
+  // return n[n.length-1].length 
 };
