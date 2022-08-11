@@ -7,6 +7,13 @@ var runningSum = (num) => {
   //   }, []);
 
   //   console.log('final ', final);
+  
+//   let counter =0 , result =[];
+//   for(n of num){
+//     counter += n;
+//     result.push(counter)
+//   }
+//   return result
 
   let total = 0;
   const final = nums.map((item) => {
