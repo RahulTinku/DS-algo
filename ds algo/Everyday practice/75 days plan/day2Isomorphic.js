@@ -12,7 +12,6 @@ var isIsomorphic = function (s, t) {
       s.indexOf(s[i]) !== s.lastIndexOf(s[i]) ||
       t.indexOf(t[i]) !== t.lastIndexOf(t[i])
     ) {
-      // console.log(s[i], t[i])
       if (t.lastIndexOf(t[i]) !== s.lastIndexOf(s[i])) return false;
     }
   }
