@@ -12,7 +12,7 @@
  */
 var mergeTwoLists = function (l1, l2) {
   /**
-    Create new List, loop untill both are empty, in each loop compare the value and push the value to newList
+    Create new List, loop untill both are empty,  in each loop compare the value and push the value to newList
     */
   let mergedList = { val: 0, next: undefined };
   let curr = mergedList;
