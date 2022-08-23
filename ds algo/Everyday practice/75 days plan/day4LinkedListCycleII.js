@@ -8,7 +8,7 @@
 
 /**
  * @param {ListNode} head
- * @return {ListNode}
+ * @return {ListNode} 
  */
 var detectCycle = function (head) {
   let slow = head,
