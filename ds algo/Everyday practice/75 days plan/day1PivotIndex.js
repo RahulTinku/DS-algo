@@ -9,7 +9,7 @@ var pivotIndex = function (nums) {
   //       right += nums[k];
   //     }
   //     if (left === right) return i;
-  //   }
+  //   } 
   //   return -1;
 
   let postSum = nums.reduce((acc, curr) => acc + curr);
