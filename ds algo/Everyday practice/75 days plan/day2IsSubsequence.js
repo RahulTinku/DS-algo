@@ -13,4 +13,4 @@ var isSubsequence = function (s, t) {
   return subSeq === s.length ? true : false;
 };
 
-console.log(isSubsequence('b', 'c'));
+console.log(isSubsequence('b', 'c')); 
