@@ -85,5 +85,5 @@ var romanToInt = function(str) {
         previous = current;
     }
     return total
-};
+}; 
 ```
