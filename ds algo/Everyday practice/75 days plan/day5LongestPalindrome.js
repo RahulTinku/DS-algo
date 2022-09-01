@@ -23,4 +23,4 @@ var longestPalindrome = function (s) {
   return count + (set.size > 0 ? 1 : 0);
 };
 
-console.log(longestPalindrome('abccccdd'));
+console.log(longestPalindrome('abccccdd')); 
