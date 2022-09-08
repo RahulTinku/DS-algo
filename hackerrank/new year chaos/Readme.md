@@ -75,5 +75,5 @@ function minimumBribes(q) {
         }
     }
     broke ? console.log('Too chaotic') : console.log(total)
-}
+} 
 ```
