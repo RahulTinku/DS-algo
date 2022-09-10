@@ -52,5 +52,5 @@ Solution
       }
 
       return arr
-  };
+  }; 
 ```
