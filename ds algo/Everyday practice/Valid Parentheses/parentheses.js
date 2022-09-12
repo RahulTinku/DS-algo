@@ -7,10 +7,10 @@ var isValid = function (s) {
   let stack = [];
 
   //iterate through given s input
-  for (let i = 0; i < s.length; i++) {
+ // for (let i = 0; i < s.length; i++) {
     //container to hold every char looked at from given input
-    let c = s.charAt(i);
-
+    //let c = s.charAt(i);
+for(let c of s){
     //use switch statement to pass the corresponding matching closing bracket
     switch (c) {
       case '(':
