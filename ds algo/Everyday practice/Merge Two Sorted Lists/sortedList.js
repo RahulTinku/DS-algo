@@ -50,4 +50,4 @@ let list2 = {
   },
 };
 
-console.log(mergeTwoLists(list1, list2));
+console.log(mergeTwoLists(list1, list2)); 
