@@ -1,2 +1,2 @@
 ## DS-algo
-Code practice for ds algorithm. 
+Code practice for ds algorithm.
